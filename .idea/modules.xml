@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootshiro.iml" filepath="$PROJECT_DIR$/springbootshiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootshiro-api/springbootshiro-api.iml" filepath="$PROJECT_DIR$/springbootshiro-api/springbootshiro-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootshiro-member-provider/springbootshiro-member-provider.iml" filepath="$PROJECT_DIR$/springbootshiro-member-provider/springbootshiro-member-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootshiro-web/springbootshiro-web.iml" filepath="$PROJECT_DIR$/springbootshiro-web/springbootshiro-web.iml" />
+    </modules>
+  </component>
+</project>
